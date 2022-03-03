@@ -13,6 +13,6 @@
 
 ### My status
 
-<img align="left" alt="ChickenDevs' Stats" src="https://github-readme-stats.vercel.app/api?username=No-Half-Measures&count_private=true&show_icons=true&theme=radical">
+<img align="left" alt="ChickenDevs' Stats" src="https://github-readme-stats.vercel.app/api?username=No-Half-Measures&count_private=true&show_icons=true&theme=dracula">
 
 
