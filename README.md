@@ -1,4 +1,4 @@
-### welcome to my **profile** <a href="https://no-half-measures.co.uk"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### welcome to my **Github** portfolio.
 
 ![Discord](https://discord.c99.nl/widget/theme-4/153629523009732609.png)
 
