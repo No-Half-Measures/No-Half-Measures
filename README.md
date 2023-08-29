@@ -9,10 +9,3 @@
 -  <span style="color: green"> 🔗 Current active project is [Baast](https://baast.app) </span>
 - 👀 My portfolio [no-half-measures.co.uk](https://no-half-measures.co.uk)
 
----
-
-### My status
-
-<img align="left" alt="ChickenDevs' Stats" src="https://github-readme-stats.vercel.app/api?username=No-Half-Measures&count_private=true&show_icons=true&theme=dracula">
-
-
